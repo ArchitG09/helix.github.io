@@ -1,0 +1,19 @@
+{
+  "name": "Helix",
+  "short_name": "Helix",
+  "description": "Lift. Move. Evolve.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07070c",
+  "theme_color": "#07070c",
+  "icons": [
+    {
+      "src": "./icons/helix.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
